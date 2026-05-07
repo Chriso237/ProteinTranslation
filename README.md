@@ -94,7 +94,7 @@ Splits an RNA string into codons (groups of 3).
 -Stops when: Stop codon encountered
 
 
-## translate(std::vector<std::string>& array)
+## translate(std::vector <std::string> & array)
 
 Translates codons to amino acids.
 
